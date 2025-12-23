@@ -1,0 +1,3 @@
+- Hardware assumptions
+- Random seeds
+- Known sources of nondeterminism
