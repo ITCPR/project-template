@@ -15,17 +15,11 @@ and its relevance to ITCPR research.
 - Clearly defined research or engineering goals
 - Expected deliverables (code, data, paper, benchmarks)
 
-## Methodology (High‑Level)
+## Methodology
 Summary of theoretical models, numerical methods, or software architecture.
 
 ## Repository Structure
 See `docs/overview.md` for details.
-
-## Installation
-```bash
-conda env create -f environment.yml
-conda activate project-name
-````
 
 ## Usage
 
