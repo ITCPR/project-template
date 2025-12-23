@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+title: "ITCPR Research Project"
+authors:
+  - name: Institute for Theoretical and Computational Physics Research
+version: 0.1.0
+license: MIT
