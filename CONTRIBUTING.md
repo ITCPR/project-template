@@ -1,0 +1,3 @@
+- All contributions must be reproducible
+- Research claims require references
+- Inactive contributors may be removed
