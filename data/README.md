@@ -1,0 +1,4 @@
+- Raw data is immutable
+- Processed data must be reproducible
+- Large datasets must use Git LFS or external storage
+- All data sources must be cited
