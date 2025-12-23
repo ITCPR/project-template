@@ -1,0 +1,3 @@
+- Algorithms and solvers
+- Parameter choices
+- Validation strategy
