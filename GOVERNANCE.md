@@ -1,0 +1,3 @@
+- Maintainers have final decision authority
+- Intern activity is periodically evaluated
+- Prolonged inactivity may result in access removal
