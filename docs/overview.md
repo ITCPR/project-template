@@ -1,0 +1,3 @@
+- Project scope
+- Design decisions
+- Explicit non‑goals
